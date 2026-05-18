@@ -5,12 +5,12 @@ fsAI is an intelligent file system assistant that provides semantic search, Q&A 
 
 ## Features
 
-- 🔍 **Semantic Search** - Find files by meaning, not just filename
-- 💬 **Q&A** - Ask questions about your files and get AI-powered answers
-- 📁 **File Operations** - Perform file operations using natural language
-- 📄 **Multi-format Support** - Works with PDFs, text files, code, and more
-- ⚡ **Real-time Indexing** - Automatically indexes files as you work
-- 🎯 **Global Hotkey** - Quick access with Alt+L (Option+L on Mac)
+-  **Semantic Search** - Find files by meaning, not just filename
+-  **Q&A** - Ask questions about your files and get AI-powered answers
+-  **File Operations** - Perform file operations using natural language
+-  **Multi-format Support** - Works with PDFs, text files, code, and more
+-  **Real-time Indexing** - Automatically indexes files as you work
+-  **Global Hotkey** - Quick access with Alt+L (Option+L on Mac)
 
 ## Prerequisites
 
@@ -154,9 +154,3 @@ fsAI/
 - `npm run build` - Build for production
 - `npx tsc` - Compile TypeScript only
 
-## Acknowledgments
-
-- Built with [Electron](https://electronjs.org/)
-- AI powered by [Ollama](https://ollama.ai/)
-- Vector search by [Qdrant](https://qdrant.tech/)
-- UI inspired by macOS Spotlight
